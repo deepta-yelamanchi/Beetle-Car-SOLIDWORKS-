@@ -68,6 +68,6 @@ The project emphasizes **learning-by-doing**, creativity, and technical explorat
 
 ## Notes for Reviewers
 
-This project reflects my **entry point into CAD and mechanical design**. While intentionally simple, it demonstrates initiative, self-directed learning, and my ability to independently learn and apply new technical tools — skills I aim to continue developing through internships and hands-on engineering experiences.
+This project reflects my **entry point into CAD and mechanical design**. While intentionally simple, it demonstrates initiative, self-directed learning, and my ability to independently learn and apply new technical tools, all skills I aim to continue developing through internships and hands-on engineering experiences.
 
 ---
